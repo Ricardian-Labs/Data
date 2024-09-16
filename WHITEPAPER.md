@@ -1,6 +1,6 @@
 
 
-# SecureChain White Paper
+# SecureChain 
 
 ## Introduction
 
