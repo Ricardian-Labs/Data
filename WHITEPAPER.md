@@ -110,7 +110,6 @@ SecureChain represents the future of decentralized data management, payments, an
 By leveraging blockchain technology, smart contracts, and encryption, SecureChain ensures that user data remains secure, private, and only accessible to authorized parties. With the future introduction of SecureCards, SecureChain aims to automate and simplify daily processes such as payments and identity verification, making life easier for individuals and businesses alike.
 
 ---
-For more information, visit: [SecureChain GitHub Repository](https://github.com/Ricardian-Labs/SecureChain)
 
 ## Implementation Guide
 
