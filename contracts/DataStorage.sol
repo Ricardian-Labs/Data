@@ -26,7 +26,7 @@ contract DataStorage is Ownable {
         _;
     }
 
-    // Store encrypted KYC data with validation
+    // Store encrypted KYC data with validation.
     function storeKYCData(
         string memory _nin,
         string memory _bvn,
