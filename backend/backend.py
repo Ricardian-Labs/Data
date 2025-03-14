@@ -4,7 +4,7 @@ import re
 
 app = Flask(__name__)
 
-# Connect to Ethereum blockchain
+# Connection to Ethereum blockchain
 blockchain_url = 'https://rinkeby.infura.io/v3/YOUR_INFURA_PROJECT_ID'
 web3 = Web3(Web3.HTTPProvider(blockchain_url))
 contract_address = 'YOUR_CONTRACT_ADDRESS'
