@@ -162,7 +162,7 @@ SecureChain is open-source and available under the MIT License. The code is free
 
 For inquiries, partnership opportunities, or technical support:
 
-- **Email**: hello@ricardianlabs.com
+- **Email**: c.adegboyega@ricardianlabs.com
 - **GitHub**: [Ricardian Labs](https://github.com/Ricardian-Labs)
 
 
