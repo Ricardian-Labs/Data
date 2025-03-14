@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Web3 from 'web3';
-import DataStorageContract from './contracts/DataStorage.json'; // Update with your contract's ABI
+import DataStorageContract from './contracts/DataStorage.json'; // Update with contract's ABI
 
 function App() {
   const [account, setAccount] = useState('');
