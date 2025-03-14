@@ -1,4 +1,4 @@
-# SecureChain: Revolutionizing Data Security & KYC for a Frictionless Future
+#  SecureChain: Revolutionizing Data Security & KYC for a Frictionless Future
 
 ## Abstract
 
